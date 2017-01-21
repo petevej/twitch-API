@@ -1,0 +1,15 @@
+body {
+  padding-top: 15%;
+  width: 100%;
+  height: 100%;
+  background-image: url('ttps://lh3.googleusercontent.com/d4YaqMD66ob-DJWuO9RSwuq_TFgU9acd588DUXVrf1HW6XgA4qZXORqega1N2V7h7tRZS-oJ3J6QvIGjhxMnMS5Q1GJo6rDHvA=w1920-h1080-rw-no');
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#streamList {
+  margin-top: 15px;
+}
